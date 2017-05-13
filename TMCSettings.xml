@@ -1,0 +1,12 @@
+<application>
+  <component name="TmcSettings">
+    <option name="settingsTmc">
+      <SettingsTmc>
+        <option name="checkForExercises" value="true" />
+        <option name="firstRun" value="false" />
+        <option name="password" value="J5210jon15001!" />
+        <option name="username" value="jd4rider" />
+      </SettingsTmc>
+    </option>
+  </component>
+</application>
