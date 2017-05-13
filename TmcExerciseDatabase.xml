@@ -29,7 +29,9 @@
                   </Exercise>
                   <Exercise>
                     <option name="allReviewPointsGiven" value="true" />
+                    <option name="attempted" value="true" />
                     <option name="checksum" value="b21582c59ab463e51d2f388e582af4d8" />
+                    <option name="completed" value="true" />
                     <option name="courseName" value="2013-OOProgrammingWithJava-PART1" />
                     <option name="downloadUrl">
                       <URI />
@@ -49,6 +51,7 @@
                   </Exercise>
                   <Exercise>
                     <option name="allReviewPointsGiven" value="true" />
+                    <option name="attempted" value="true" />
                     <option name="checksum" value="f38de6b59f35cc7ec6b91abeccf2acf2" />
                     <option name="courseName" value="2013-OOProgrammingWithJava-PART1" />
                     <option name="downloadUrl">
