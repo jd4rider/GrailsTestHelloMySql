@@ -139,7 +139,9 @@
                   </Exercise>
                   <Exercise>
                     <option name="allReviewPointsGiven" value="true" />
+                    <option name="attempted" value="true" />
                     <option name="checksum" value="53195c44a2dd9d2cb58cd97624e3059a" />
+                    <option name="completed" value="true" />
                     <option name="courseName" value="2013-OOProgrammingWithJava-PART1" />
                     <option name="downloadUrl">
                       <URI />
